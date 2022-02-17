@@ -1,6 +1,6 @@
 # Anonymous chat
 
-> This is a [Firebase](https://firebase.google.com/) chating app use firestore database and autheticate user by using there gmail.
+> This is a [Firebase](https://firebase.google.com/) chatting app use firestore database and autheticate user by using there gmail.
 > I use random bot profile picture for the users using [DiceBear](https://avatars.dicebear.com/)
 
 
